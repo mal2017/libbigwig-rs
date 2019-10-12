@@ -1,0 +1,11 @@
+[package]
+name = "libbigwig-rs"
+version = "0.1.0"
+authors = ["mattlawlor <matt.a.lawlor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+
+[build-dependencies]
+bindgen = "0.51.1"
